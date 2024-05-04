@@ -3,7 +3,7 @@ id: 400
 title: 'About Us'
 date: '2023-04-05T14:02:13+00:00'
 author: voky
-layout: page
+layout: default
 guid: 'http://jessgames-com.local/?page_id=400'
 image: /wp-content/uploads/about-us.jpg
 ---
